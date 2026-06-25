@@ -1,4 +1,4 @@
-const CACHE = 'asteroids-v76';
+const CACHE = 'asteroids-v78';
 const ASSETS = ['/asteroids/', '/asteroids/index.html', '/asteroids/manifest.json', '/asteroids/icon-192.png', '/asteroids/icon-512.png'];
 
 self.addEventListener('install', e => {
